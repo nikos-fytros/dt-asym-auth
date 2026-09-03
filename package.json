@@ -1,0 +1,17 @@
+{
+  "name": "dt-asym-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asymmetric_auth.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "jose": "^6.2.10"
+  },
+  "devDependencies": {
+    "@types/node": "^26.4.1"
+  }
+}
